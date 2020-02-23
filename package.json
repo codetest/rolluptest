@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "rollup": "^1.31.1"
-  }
+    "rollup": "^1.31.1",
+    "rollup-plugin-uglify": "^6.0.4"
+  },
+  "dependencies": {}
 }

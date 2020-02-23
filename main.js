@@ -1,2 +1,2 @@
-import msg from "./foo.js"
+import {msg} from "./foo.js"
 console.log(msg)
