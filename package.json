@@ -10,7 +10,12 @@
   "license": "ISC",
   "devDependencies": {
     "rollup": "^1.31.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-gzip": "^2.3.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-uglify": "^6.0.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
 }
